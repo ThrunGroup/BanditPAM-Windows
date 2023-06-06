@@ -1,2 +1,2 @@
-# template_repo
+# BanditPAM-Windows
 For new projects
